@@ -1,0 +1,10 @@
+Alice 66
+John 82
+Benny 92
+Timmy 93
+Tom 72
+Tan 99
+Jim 55
+Sam 82
+Opera 77
+Kim 68
